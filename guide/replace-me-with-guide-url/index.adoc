@@ -14,7 +14,7 @@ tags:
 :toclevels: 2
 :codebase: https://raw.githubusercontent.com/testcontainers/TC_GUIDE_REPO_NAME/main
 
-In this guide you will learn how to
+In this guide, you will learn how to
 
 * Perform task 1
 * Perform task 2
